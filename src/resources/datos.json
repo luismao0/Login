@@ -1,0 +1,17 @@
+{
+    "alumnos": [
+      {
+        "codigo": "123",
+        "contraseña": "secreto"
+      },
+      {
+        "codigo": "456",
+        "contraseña": "clave123"
+      },
+      {
+        "codigo": "789",
+        "contraseña": "password"
+      }
+    ]
+  }
+  
